@@ -1,0 +1,6 @@
+admin:admin:::::::
+kaito:kaito:mial:20:tototo:chigasaki1-1:090-9999-0000:zzzzz@kkk.com:TP1s
+kenta:kenta:mail:29:soccer:chigasaki:090909099:ssss@kkk.cmo:TP2s
+host:host:men:old:tennis:address:phone:e-mail:TP3s
+hakase:hakase:gender:old:sport:address:phone:e-mail:TP5s
+k:k:k:gender:20:football:japan:phone:e-mail:TP4s
